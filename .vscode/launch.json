@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DiscografiaApplication<discografia>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "org.iplacex.proyectos.discografia.DiscografiaApplication",
+            "projectName": "discografia",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
